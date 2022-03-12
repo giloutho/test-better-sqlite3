@@ -23,7 +23,7 @@ It is not sure that a simple _"npm intall"_ runs without errors. On the reposito
 * run npm install as __administrator__
 
 ### Linux
-Tested on Ubuntu. No problems, a simple _"npm intall"_ and _"npm start"_.
+Tested on Ubuntu. This works directly without problems. _"npm intall"_ and _"npm start"_.
 
 ## Results
 This test create a database called sample.db with sql text files.
