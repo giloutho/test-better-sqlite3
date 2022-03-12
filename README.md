@@ -22,9 +22,12 @@ It is not sure that a simple _"npm intall"_ runs without errors. On the reposito
 * install latest Visual Studio Community and Desktop Development with C++ extension. Success with 2019 version
 * run npm install as __administrator__
 
-```sh
-npm start
-```
+### Linux
+Tested on Ubuntu. No problems, a simple _"npm intall"_ and _"npm start"_.
+
+## Results
 This test create a database called sample.db with sql text files.
 
-Some requests are made : Select, Select count, Insert and Delete
+Some requests are made : Select, Select count, Insert and Delete.
+
+Request results are displayed in the console
