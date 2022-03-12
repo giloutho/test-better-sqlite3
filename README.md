@@ -25,6 +25,18 @@ It is not sure that a simple _"npm intall"_ runs without errors. On the reposito
 ### Linux
 Tested on Ubuntu. This works directly without problems. _"npm intall"_ and _"npm start"_.
 
+### Mac Intel
+Tested on MacOS 10.15 (Catalina). This works directly without problems. _"npm intall"_ and _"npm start"_.
+
+### Mac Arm
+Tested on MacOS 12.2 (Monterey). This works directly without problems. _"npm intall"_ and _"npm start"_.
+
+### Versions
+These tests were performed with : 
+* Electron 17
+* Electron-forge 6
+* better-sqlite3 7.5
+
 ## Results
 This test create a database called sample.db with sql text files.
 
