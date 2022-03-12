@@ -1,6 +1,6 @@
 ## test-better-sqlite3
 
-The aim of this project is to verify the correct installation and operation of better-sqlite3 with Electron on different operating systems: MacOS intel, MacOS M1, Windows and Linux. The use of node-gyp does not always make things obvious.
+The goal of this project is to verify the good integration of sqlite-better3 in an Electron application initiated with Electron Forge. This project must run on different operating systems: MacOS intel, MacOS M1, Windows and Linux. The use of node-gyp does not always make things obvious.
 
 ### Built With
 
