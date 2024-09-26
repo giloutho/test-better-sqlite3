@@ -1,6 +1,6 @@
 ## test-better-sqlite3
 
-The goal of this project is to verify the good integration of sqlite-better3 in an Electron application initiated with Electron Forge. This project must run on different operating systems: MacOS intel, MacOS M1, Windows and Linux. The use of node-gyp does not always make things obvious.
+The goal of this project is to verify the good integration of sqlite-better3 in an Electron application initiated with Electron Forge. Ultimately, this project should enable us to check that the ___application generated___ works on different operating systems: MacOS intel, MacOS M1, Windows and Linux. The use of node-gyp does not always make things obvious.
 
 ### Built With
 
@@ -38,8 +38,6 @@ These tests were performed with :
 * better-sqlite3 7.5
 
 ## Results
-This test create a database called sample.db with sql text files.
+With sql text files, this test create an in memory database.
 
 Some requests are made : Select, Select count, Insert and Delete.
-
-Request results are displayed in the console
