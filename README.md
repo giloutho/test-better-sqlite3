@@ -20,9 +20,9 @@ Install modules and start. When running, click on the button to select a Sqlite 
 
 The references below are the latest to be used successfully
 
-* [Electron](https://www.electronjs.org/) Release 22.0.0
+* [Electron](https://www.electronjs.org/) Release 22.3.27  Test with version 25.9.8 failed
 * [Electron-forge](https://github.com/electron-userland/electron-forge) Release 6.4.2
-* [Better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)  Release 10.0.0
+* [Better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)  Release 11.3.1
 
 ### Windows
 It is not sure that a simple _"npm intall"_ runs without errors. On the repository of better-sqlite3, here is a [troubleshooting guide](https://github.com/JoshuaWise/better-sqlite3/blob/master/docs/troubleshooting.md). After many hours, here is what seems essential :
